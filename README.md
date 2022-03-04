@@ -45,7 +45,7 @@
 
 ᴡᴀɪᴛ ғᴏʀ ʟᴀᴛᴇsᴛ ᴜᴘᴅᴀᴛᴇ ɪғ ʏᴏᴜ ᴅᴏɴᴛ ʟɪᴋᴇ ᴛʜɪs . ᴛᴇsᴛᴇᴅ ᴠᴇʀsɪᴏɴ , just fork and use as upstream repo .
 
-## 👉[REPO LINK](https://https://github.com/DKBOTx/AutoFilterbotv4.git)
+## 👉[REPO LINK](https://github.com/DKBOTx/AutoFilterbotv4.git)
 
 
 <details><summary>Deploy To VPS</summary>
