@@ -5,7 +5,7 @@
 
 ## This Bot May Look Like [Mwk_AutofilterBot](https://t.me/Mwk_Autofilterbot) And Its Because I Like Its UI, That's All</b>
 
-# ᴜsᴇ ᴛʜɪs ʀᴇᴘᴏ ᴀs ʏᴏᴜʀ `UPSTREAM_REPO` ɪɴ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ. ᴀғᴛᴇʀ ᴀᴅᴅɪɴɢ ᴛʜɪs ʀᴇᴘᴏ , ʀᴇsᴛᴀʀᴛ ᴀʟʟ ᴅʏɴᴏs .
+# ᴜsᴇ ᴛʜɪs ʀᴇᴘᴏ ᴀs ʏᴏᴜʀ`UPSTREAM_REPO`ɪɴ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ. ᴀғᴛᴇʀ ᴀᴅᴅɪɴɢ ᴛʜɪs ʀᴇᴘᴏ , ʀᴇsᴛᴀʀᴛ ᴀʟʟ ᴅʏɴᴏs .
   
 # 🤧 Fork This Repo For Now
 * `Fork This Repo For Now There Are Some Bugs Needed To Be Fixed`
@@ -45,13 +45,13 @@
 
 ᴡᴀɪᴛ ғᴏʀ ʟᴀᴛᴇsᴛ ᴜᴘᴅᴀᴛᴇ ɪғ ʏᴏᴜ ᴅᴏɴᴛ ʟɪᴋᴇ ᴛʜɪs . ᴛᴇsᴛᴇᴅ ᴠᴇʀsɪᴏɴ , just fork and use as upstream repo .
 
-## Deploy [NO NEED TO DEPLOY]
-<p><a href="https://telegram.dog/XTZ_HerokuBot?start=dmxvZ2dlcmRldmVuL0RLQk9UeEF1dG9maWx0ZXJCb3QgZGV2ZWxvcA"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+## 👉[REPO LINK](https://https://github.com/DKBOTx/AutoFilterbotv4.git)
+
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/vloggerdeven/dkbotxautofilterbot
+git clone https://github.com/DKBOTx/AutoFilterbotv4.git
 # Install Packages
 # pip3 install -r requirements.txt
 Edit `info.py` with variables as given below then run bot
