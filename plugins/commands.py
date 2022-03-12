@@ -260,7 +260,6 @@ async def delete_all_index_confirm(bot, message):
             ],
         ]
 
-
         reply_markup = InlineKeyboardMarkup(buttons)
 
         await message.reply_text(
