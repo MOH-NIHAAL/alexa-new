@@ -228,9 +228,9 @@ async def settings(client, message):
     ):
         return
 
-settings = await get_settings(grp_id)
+      settings = await get_settings(grp_id)
 
-    if settings is not None:
+      if settings is not None:
         buttons = [
             [
                 InlineKeyboardButton(
@@ -296,7 +296,7 @@ settings = await get_settings(grp_id)
 
         reply_markup = InlineKeyboardMarkup(buttons)
 
-       await message.reply_text(
+        await message.reply_text(
             text=f"<b>Change Your Settings for {title} As Your Wish ⚙</b>",
             reply_markup=reply_markup,
             disable_web_page_preview=True,
