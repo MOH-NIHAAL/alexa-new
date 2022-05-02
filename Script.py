@@ -33,13 +33,14 @@ class script(object):
 𝖬𝖺𝖽𝖾 𝖻𝗒 @DK_BOTx ❤️
 """
     ABOUT_TXT = """
-○ 𝖬𝗒 𝖭𝖺𝗆e : ᴀᴜᴛᴏғɪʟᴛᴇʀ ᴠ4
+○ 𝖬𝗒 𝖭𝖺𝗆e : 𝕋𝔼𝕊𝕊𝔸
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/dk_botx'>𝗗𝗞 𝗕𝗢𝗧𝘅</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
-○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
+○ 𝖲𝖾𝗋𝗏𝖾𝗋 : 𝖧𝖾𝗋𝗈𝗄𝗎
 ○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
-○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : 𝖵9.8 [BeTa]
+○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : 𝖵9.5 [BeTa]
+○ 𝖳𝗁𝖺𝗇𝗄𝗌 𝖳𝗈 <a href='https://t.me/vloggerdeven_TG'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
 """
     SOURCE_TXT = """<b>NOTE:</b>
 - Okda , NOKKI IRRUNNO IPPO KITTUM !.   
