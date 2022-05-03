@@ -64,16 +64,16 @@ async def start(client, message):
             ]
         ]
 
-        if message.command[1] != "subscribe":
-            btn.append([InlineKeyboardButton("ʀᴇғʀᴇsʜ", callback_data=f"checksub#{message.command[1]}")])
+        if message.command[1] != "🔥𝗝𝗢𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟🔥":
+            btn.append([InlineKeyboardButton("🔁 𝑹𝒆𝒇𝒓𝒆𝒔𝒉 𝑴𝒆 🔁", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**Join Our Movies Group**",
+            text="**𝑱𝒐𝒊𝒏 𝑶𝒖𝒓 𝑴𝒐𝒗𝒊𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑨𝒏𝒅 𝑹𝒆𝒇𝒓𝒆𝒔𝒉 𝑴𝒆 𝒕𝒐 𝑮𝒆𝒕 𝑴𝒐𝒗𝒊𝒆 𝑭𝒊𝒍𝒆𝒔!**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
             )
         return
-    if message.command[1] in ["subscribe", "error", "okay"]:
+    if message.command[1] in ["🔥𝗝𝗢𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟🔥", "error", "okay"]:
         return
     file_id = message.command[1]
     print(file_id)
