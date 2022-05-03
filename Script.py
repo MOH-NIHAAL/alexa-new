@@ -283,8 +283,12 @@ This module only works for my admins
 Group = {}(<code>{}</code>
 Total Members = <code>{}</code>
 Added By - {}
+
+Devoloped By @DK_BOTx
 """
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
+
+Devoloped by @DK_BOTx
 """
