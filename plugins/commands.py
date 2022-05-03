@@ -19,7 +19,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://t.me/dk_botx')
+                InlineKeyboardButton('updates', url='https://t.me/mh_world')
             ],
             [
                 InlineKeyboardButton('𝖧𝖾𝗅𝗉', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -59,12 +59,12 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "ᴊᴏɪɴ", url=invite_link.invite_link
+                    "**🔥JOIИ CHΛИИΞL🔥**", url=invite_link.invite_link
                 )
             ]
         ]
 
-        if message.command[1] != "**🔥 JOIИ CHΛИИΞL 🔥**":
+        if message.command[1] != "subscribe":
             btn.append([InlineKeyboardButton("🔁 𝑹𝒆𝒇𝒓𝒆𝒔𝒉 𝑴𝒆 🔁", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
@@ -73,7 +73,7 @@ async def start(client, message):
             parse_mode="markdown"
             )
         return
-    if message.command[1] in ["🔥 JOIИ CHΛИИΞL 🔥", "error", "okay"]:
+    if message.command[1] in ["subscribe", "error", "okay"]:
         return
     file_id = message.command[1]
     print(file_id)
