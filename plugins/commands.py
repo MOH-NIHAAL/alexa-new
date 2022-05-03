@@ -64,7 +64,7 @@ async def start(client, message):
             ]
         ]
 
-        if message.command[1] != "🔥𝗝𝗢𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟🔥":
+        if message.command[1] != "**🔥 JOIИ CHΛИИΞL 🔥**":
             btn.append([InlineKeyboardButton("🔁 𝑹𝒆𝒇𝒓𝒆𝒔𝒉 𝑴𝒆 🔁", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
@@ -73,7 +73,7 @@ async def start(client, message):
             parse_mode="markdown"
             )
         return
-    if message.command[1] in ["🔥𝗝𝗢𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟🔥", "error", "okay"]:
+    if message.command[1] in ["🔥 JOIИ CHΛИИΞL 🔥", "error", "okay"]:
         return
     file_id = message.command[1]
     print(file_id)
