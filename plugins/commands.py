@@ -19,6 +19,9 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
+                InlineKeyboardButton('follow me', url='https://github.com/TG-V4MP1R3')
+            ],
+            [
                 InlineKeyboardButton('updates', url='https://t.me/mh_world')
             ],
             [
