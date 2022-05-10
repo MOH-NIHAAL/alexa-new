@@ -419,7 +419,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url='https://t.me/mh_world'),
-            InlineKeyboardButton('ᴄʀᴇᴀᴛᴏʀ', url='https://tgvampires.com'),
+            InlineKeyboardButton('ᴍᴏᴠɪᴇs', url='https://t.me/+08V0sYUR5qJiMDI1'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='help')
         ]]
         
