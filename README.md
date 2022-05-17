@@ -12,7 +12,7 @@
 
 # Credits
 * `Base Repo Used In The Build - Eva Maria`
-* © [dk [OFLINE]](https://telegram.dog/dk_assist_bot)
+* © [dk [OFFLINE]](https://telegram.dog/vloggerdeven_tg)
 * Powered By [DK BOTx](https://telegram.dog/dk_botx)
 
 
