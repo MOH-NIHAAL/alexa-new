@@ -759,9 +759,9 @@ async def auto_filter(client, message):
             btn.append(
                 [InlineKeyboardButton(text="🗓 1/1",callback_data="pages")]
             )
-        imdb=await get_poster(https://telegra.ph/file/37c2a450ee638153244be.jpg)
-        if imdb and imdb.get('https://telegra.ph/file/37c2a450ee638153244be.jpg'):
-            await message.reply_photo(photo=imdb.get('https://telegra.ph/file/37c2a450ee638153244be.jpg'), caption=f"<b>Hey 👋 {message.from_user.mention} 😍 \n\n 📁 Here is What I Found In My Database For Your Query : {search} 👇</b>", reply_markup=InlineKeyboardMarkup(btn))
+        imdb=await get_poster(search)
+        if imdb and imdb.get('poster'):
+            await message.reply_photo(photo=imdb.get('poster'), caption=f"<b>Hey 👋 {message.from_user.mention} 😍 \n\n 📁 Here is What I Found In My Database For Your Query : {search} 👇</b>", reply_markup=InlineKeyboardMarkup(btn))
         elif imdb:
             await message.reply_text(f"<b>Hey 👋 {message.from_user.mention} 😍 \n\n 📁 Here is What I Found In My Database For Your Query : {search} 👇</b>", reply_markup=InlineKeyboardMarkup(btn))
         else:
