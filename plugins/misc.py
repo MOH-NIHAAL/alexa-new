@@ -1,6 +1,6 @@
 import os
 from Script import script
-from info import GIF
+from info import PICS
 import random
 from pyrogram import Client, filters
 from pyrogram.errors.exceptions.bad_request_400 import UserNotParticipant
