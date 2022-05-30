@@ -205,7 +205,7 @@ async def help(client, message):
 async def aboutme(client, message):
         buttons= [[
             InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url='https://t.me/mh_world'),
-            InlineKeyboardButton('ᴍᴏᴠɪᴇs', url='https://t.me/+08V0sYUR5qJiMDI1'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+Qr7YcqpVhl01YWQ1'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='help')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
