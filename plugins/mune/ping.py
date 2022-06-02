@@ -9,7 +9,7 @@ from info import (
 from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
-ALIVE = "𝖧𝖾𝗒 , 𝖨 𝖺𝗆 𝖠𝗅𝗂𝗏𝖾.𝖳𝗁𝖺𝗇𝗄𝗌 𝖳𝗈 @KP51107 @vloggerdeven_TG ."
+ALIVE = "𝖧𝖾𝗒 , 𝖨 𝖺𝗆 𝖠𝗅𝗂𝗏𝖾.𝖳𝗁𝖺𝗇𝗄𝗌 𝖳𝗈 TG-V4MP1R3,DKBOTx ."
 HELP = "CAACAgUAAxkBAAEEnY9icR7IVu4XCWIu8b5hmdkWqMSHowACSgUAAkHZ6VUXoTLB53NQIiQE"
 # -- Constants End -- #
 
